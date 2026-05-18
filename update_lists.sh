@@ -41,6 +41,7 @@ https://badmojr.github.io/1Hosts/Lite/adblock.txt \
 echo "Downloading and processing allowlists..."
 curl -fsSL --max-time 60 \
 https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/whitelist.txt \
+https://raw.githubusercontent.com/huyle0406/Serverless-Edge-DNS-Gateway/refs/heads/main/rules/my_allow.txt \
 | extract_domains > "$ALLOW_TMP"
 
 # Di chuyển file tmp vào thư mục đích

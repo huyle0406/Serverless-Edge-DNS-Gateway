@@ -31,7 +31,6 @@ extract_domains() {
 
 echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
-https://raw.githubusercontent.com/bibicadotnet/blocklist_minimal/main/blocklists.txt \
 https://raw.githubusercontent.com/huyle0406/Serverless-Edge-DNS-Gateway/refs/heads/main/rules/myblocklist \
 | extract_domains > "$BLOCK_TMP"
 

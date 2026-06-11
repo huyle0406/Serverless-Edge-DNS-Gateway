@@ -36,7 +36,6 @@ https://raw.githubusercontent.com/huyle0406/Serverless-Edge-DNS-Gateway/refs/hea
 
 echo "Downloading and processing allowlists..."
 curl -fsSL --max-time 60 \
-https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/whitelist.txt \
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/spam-tlds-allow-onlydomains.txt \
 | extract_domains > "$ALLOW_TMP"
 

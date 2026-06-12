@@ -888,7 +888,6 @@ libreelec.wiki
 manson.wiki
 mediaclients.wiki
 minecraft.wiki
-moddedmc.wiki
 modding.wiki
 mtg.wiki
 namu.wiki

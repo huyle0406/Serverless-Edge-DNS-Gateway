@@ -197,6 +197,7 @@ compromise.cool
 eagle.cool
 shirtz.cool
 upbitit.cool
+ymq.cool
 hammertime.cyou
 prometko.cyou
 daily.dad
@@ -659,6 +660,7 @@ seyffer.shop
 swedish-supplements.shop
 terminal.shop
 urlbluemedia.shop
+waldhaus.shop
 weinbibliothek.shop
 weinwunder.shop
 wielrenner.shop

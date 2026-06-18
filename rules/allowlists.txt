@@ -652,6 +652,7 @@ nocut.shop
 nordland.shop
 owl-dampfer.shop
 oxiline.shop
+papaplatte.shop
 prohibited.shop
 redbrain.shop
 scayle.shop
@@ -758,6 +759,7 @@ myexpresscarwash.store
 myshopline.store
 pbshop.store
 peugeot.store
+pyrocynical.store
 roble.store
 rokomari.store
 shoplazza.store

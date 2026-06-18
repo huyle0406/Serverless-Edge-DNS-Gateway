@@ -517,6 +517,7 @@ infomax.online
 instructions.online
 manuals.online
 mastodon.online
+mijnslimhuis.online
 mrprice.online
 open.online
 order.online

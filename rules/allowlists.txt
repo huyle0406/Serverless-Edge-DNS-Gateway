@@ -783,6 +783,7 @@ flourish.studio
 starapps.studio
 woodsea.studio
 zenn.studio
+nebula.style
 primer.style
 shiki.style
 encode.su

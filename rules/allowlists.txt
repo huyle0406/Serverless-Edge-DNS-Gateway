@@ -302,6 +302,7 @@ embark.games
 eneba.games
 erkul.games
 gxcorner.games
+mycafe.games
 skystone.games
 file.garden
 cst.gdn
@@ -623,6 +624,7 @@ terminal.sexy
 30grad.shop
 4id.shop
 aloedent.shop
+appchance.shop
 axisms.shop
 brothersinarms.shop
 buergerspital.shop

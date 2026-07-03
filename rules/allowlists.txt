@@ -290,6 +290,7 @@ crypt.fyi
 genderdysphoria.fyi
 iusearchlinux.fyi
 laelaps.fyi
+layoffs.fyi
 levels.fyi
 lunar.fyi
 notbyai.fyi

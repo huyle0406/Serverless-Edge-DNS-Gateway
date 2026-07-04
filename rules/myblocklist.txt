@@ -1,7 +1,3 @@
-mesu.apple.com
-appldnld.apple.com
-swscan.apple.com
-xp.apple.com
 gdmf.apple.com
 ad-assets.futurecdn.net
 ck.getcookiestxt.com

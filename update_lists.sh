@@ -32,7 +32,7 @@ extract_domains() {
 echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
 https://raw.githubusercontent.com/huyle0406/Serverless-Edge-DNS-Gateway/refs/heads/main/rules/myblocklist.txt \
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt \
+https://raw.githubusercontent.com/huyle0406/blocklist_minimal/refs/heads/main/blocklists.txt \
 | extract_domains > "$BLOCK_TMP"
 
 echo "Downloading and processing allowlists..."

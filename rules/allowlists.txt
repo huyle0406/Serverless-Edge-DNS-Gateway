@@ -1,3 +1,7 @@
+statics.voz.tech
+www.w3.org
+static.cloudflareinsights.com
+xenforo.com
 s.youtube.com
 voz.vn
 browser.coccoc.com

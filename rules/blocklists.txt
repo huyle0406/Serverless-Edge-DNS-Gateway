@@ -7844,7 +7844,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -8242,7 +8241,6 @@ ads.w55c.net
 ads.watson.ch
 ads.weather.ca
 ads.web.de
-ads.web.tr
 ads.webmasterpoint.org
 ads.webrekom.xyz
 ads.wedodemos.com
@@ -11029,7 +11027,8 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 allhorseracing.ag
 alliancefurs.com
@@ -11637,6 +11636,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -14993,7 +14993,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -15564,7 +15563,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -23853,7 +23851,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.srxy.xyz
 cdn.starseed.fr
@@ -28777,7 +28774,6 @@ csdsp.admanmedia.com
 cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfuiuwdubtyr.online
@@ -43988,7 +43984,9 @@ falcon.pixanalytics.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -50424,6 +50422,7 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
+grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -66104,6 +66103,7 @@ layouthonouredbuyer.com
 laytroops.com
 lazada.bet
 lazada1688.com
+lazada77.com
 lazadaapp.shop
 laziedqaidpavy.cfd
 lazuliempall.com
@@ -85183,7 +85183,6 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nybusinessdaily.com
-nyceov.life.ru
 nycgazette.com
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
@@ -91781,7 +91780,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -102657,7 +102655,6 @@ securetags.esri.ca
 securetags.esri.ch
 securetags.esri.co
 securetags.esri.com
-securetags.esri.com.tr
 securetags.esri.de
 securetags.esri.fi
 securetags.esri.in
@@ -102666,7 +102663,6 @@ securetags.esri.ro
 securetags.esri.rw
 securetags.esri.se
 securetags.esrichina.hk
-securetags.esriturkey.com.tr
 securetags.esriuk.com
 securetags.geotecnologias.com
 securetags.gisbaltic.eu
@@ -120626,6 +120622,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -140598,7 +140595,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersegment.wpdigital.net
 userstat.net

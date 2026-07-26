@@ -6108,6 +6108,7 @@ abo.schibsted.no
 aboardamusement.com
 aboardlevel.com
 aboardstepbugs.com
+abodealley.com
 abody.39.net
 abogadodejacksonville.com
 abolt.xyz
@@ -8017,7 +8018,6 @@ adc3-launch.adcolony.com
 adcaffe.com
 adcalls.nl
 adcalm.com
-adcamp.ru
 adcampo.com
 adcanadian.com
 adcannyads.com
@@ -9527,7 +9527,6 @@ ads.boerse-express.com
 ads.botbanhang.vn
 ads.boylesports.com
 ads.brand.net
-ads.brazzers.com
 ads.bridgebase.com
 ads.bridgetrack.com.edgesuite.net
 ads.bsplayer.com
@@ -10077,7 +10076,6 @@ ads.playground.xyz
 ads.playpilot.com
 ads.playstream.media
 ads.pni.com
-ads.po-zdravidnes.com
 ads.poconorecord.com
 ads.pointroll.com
 ads.popfolkstars.com
@@ -10848,6 +10846,7 @@ adserver.co.il
 adserver.com
 adserver.corusradionetwork.com
 adserver.creative-asia.com
+adserver.creativeinspire.com
 adserver.cxad.cxense.com
 adserver.dbusiness.com
 adserver.ddev.site
@@ -14185,7 +14184,6 @@ aliveachiever.com
 aliveprompt.com
 aliwjo.com
 alizedusud.free.fr
-aljassarengineering.com
 aljdbnno.sportadventure.pl
 aljothcgodyrw.space
 alkemi.com.se
@@ -14243,7 +14241,7 @@ allergycenter.info
 alleron.andree.free.fr
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.west.adadvisor.net
 allfet.info
 allfreecounter.com
@@ -21682,7 +21680,6 @@ aws-oregon-california-virginia.dts.innovid.com.akadns.net
 aws-oregon-jrtr.rtr.innovid.com.akadns.net
 aws-oregon-ohio-virginia.s.innovid.com.akadns.net
 aws.lijit.com
-aws.rubiconproject.com
 aws.userlogsanalytics.com
 aws2sip.exponential.com
 aws2webapp.exponential.com
@@ -23767,7 +23764,7 @@ bejoss.com
 bejwponulwdwx.online
 beka.pl
 bekannt-im-web.de
-bekbprd.112.2o7.net
+bekbprd.112.2o7.netfana.staging.leanplum.com
 bekickmohels.com
 beklefkiom.com
 bekodepo.com
@@ -29848,7 +29845,6 @@ capig.tiktak188vvip.site
 capig.torebki-skorzane.pl
 capig.torontoartsacademy.com
 capig.tortillamasters.com
-capig.trisoro.mk
 capig.twentytwowords.com
 capig.usa-insulation.net
 capig.vanity-zurich.ch
@@ -31092,6 +31088,7 @@ cdn.gimbal.tech
 cdn.gitajwl.com
 cdn.gladly.com
 cdn.glassboxcdn.com
+cdn.gmossp-api-adservices.apple.com
 cdn.gmossp-sp.jp
 cdn.goftino.com
 cdn.gotraffic.net
@@ -31408,7 +31405,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.spoutable.com
 cdn.sprida.se
 cdn.springboard.gorillanation.com
@@ -32659,7 +32655,6 @@ chordbelievingpossible.com
 chorgilaxly.cfd
 choribitrowane.qpon
 choristlibget.cfd
-chorumebbbbgoza.xyz
 chorwatortygan.cfd
 choseing.com
 chosesmahoes.cfd
@@ -37983,6 +37978,7 @@ csdsp.admanmedia.com
 cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfuiuwdubtyr.online
@@ -37998,6 +37994,7 @@ csitulo.g-heat.eu
 csjdhxlelvqpa.site
 csjggncfpbhnq.space
 csjokezuqdbdy.online
+csk.ru
 cskcnipgkq.club
 cskhdienmayxanh.com
 cskmurrha.cfd
@@ -43787,7 +43784,6 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
-data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -46834,7 +46830,6 @@ dilute08062025.shop
 diluvyignorer.com
 dilvyi2h98h1q.cloudfront.net
 dimaria.alphonso.tv
-dimarsbg.com
 dimelabs.click
 dimensions.mappy.com
 dimeprice.com
@@ -48969,7 +48964,6 @@ dsp.adservme.com
 dsp.adspyglass.com
 dsp.ali213.net
 dsp.aparat.com
-dsp.api.vungle.com
 dsp.applabs.live
 dsp.aralego.com
 dsp.batmobi.net
@@ -49377,7 +49371,6 @@ dumbestrebar.cfd
 dumedia.ru
 dumjz.wearswoody.com
 dumkrizshgtse.website
-dummieseardrum.com
 dummy.112.2o7.net
 dummyimpostorluke.com
 dump.mewcdn.online
@@ -64203,7 +64196,6 @@ grfx.mp3.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
-grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -65069,7 +65061,6 @@ gtm.brunogabarra.com
 gtm.bruunsbazaar.dk
 gtm.bruxismozero.com.br
 gtm.bstrade.nickdovirtual.com
-gtm.bswhealth.com
 gtm.bubbleauto-shop.com
 gtm.budaro.pl
 gtm.buffetfinesse.com.br
@@ -91894,6 +91885,7 @@ magna.ru
 magnatejuicier.qpon
 magnetadservices.com
 magnetic.com
+magnetic.t.domdex.com
 magnetisemedia.com
 magnificentdeedsenses.com
 magnificentmanlyyeast.com
@@ -94976,7 +94968,6 @@ media.netpositive.hu
 media.netrefer.com
 media.nk-net.pl
 media.northlatitude.dk
-media.ontarionorth.com
 media.org.adtimaserver.vn
 media.pgmcdn.com
 media.pirtek.co.uk
@@ -95632,7 +95623,6 @@ metric.australiansuper.com
 metric.avon.com
 metric.baitoru.com
 metric.barclaycardus.com
-metric.baylorhealth.com
 metric.billmelater.com
 metric.bizjournals.com
 metric.bostonscientific.com
@@ -95959,7 +95949,6 @@ metrics.bbva.com.uy
 metrics.bbva.mx
 metrics.bbva.pe
 metrics.bbvaautodigital.com.mx
-metrics.bcbsnc.com
 metrics.bcbsnd.com
 metrics.be.carrefour.eu
 metrics.beachbody.com
@@ -96370,7 +96359,6 @@ metrics.fingerhut.com
 metrics.finishline.com
 metrics.finn.no
 metrics.fitnessmagazine.com
-metrics.fitzona.com
 metrics.flagstar.com
 metrics.flaminga.com.br
 metrics.fleetowner.com
@@ -101063,7 +101051,6 @@ n.ads5-adnow.com
 n.adxxx.info
 n.baminw.com.cn
 n.bodybuilding.com
-n.boydgaming.com
 n.carmax.com
 n.clips4sale.com
 n.domnovrek.com
@@ -105859,7 +105846,6 @@ ojn1zxz0ni.com
 ojnpn.dorasti.com
 ojnzzwsshjjqn.website
 ojokavacpkcjv.space
-ojolink.fr
 ojonvpuqbtqul.site
 ojooo.com
 ojprlvavhknyk.site
@@ -113238,7 +113224,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 posta.news
@@ -123489,7 +123474,6 @@ s.boardgamer.se
 s.bollywoodmenswear.com
 s.boom.ro
 s.boulezsaal.de
-s.boydgaming.com
 s.bramptonguardian.com
 s.brilmaver.com
 s.brixongroup.com
@@ -124037,7 +124021,6 @@ s.update.moatads.com
 s.update.morgdog.springserve.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.stickyadstv.com
 s.update.tas.yieldmo.com
 s.update.wo.gumgum.com
@@ -132067,6 +132050,7 @@ sgtm.popuptextil.ro
 sgtm.positibeuniformes.cl
 sgtm.posternature.com
 sgtm.poulsborv.com
+sgtm.powerrichsports.com
 sgtm.predeion.it
 sgtm.prefast.nl
 sgtm.preplife.dk
@@ -133943,7 +133927,6 @@ skadnetwork.singular.net
 skadnetworks.fyber.com
 skadsdk.appsflyer.com
 skadsdk.appsflyersdk.com
-skadsdk.appsflyersdk.com.com
 skaldicclat.cfd
 skaluneris.com
 skaqaz.witt-weiden.ch
@@ -134086,7 +134069,6 @@ sklep.mariuszmroz.pl
 sklepdom.pl
 sklepguesspolska.com
 sklepikon.shop
-sklepkody24.pl
 sklepmartesshop.com
 sklepmoda.com
 skleporia.shop
@@ -134687,7 +134669,6 @@ smetric.ads.microsoft.com
 smetric.atg.se
 smetric.bahamabreeze.com
 smetric.bajajgeneralinsurance.com
-smetric.baylorhealth.com
 smetric.betway.com
 smetric.betway.dk
 smetric.betway.es
@@ -135168,7 +135149,6 @@ smetrics.bbvaresearch.com
 smetrics.bbvaseguros.mx
 smetrics.bcbsfl.com
 smetrics.bcbsm.com
-smetrics.bcbsnc.com
 smetrics.bcbsnd.com
 smetrics.be.carrefour.eu
 smetrics.beachbody.com
@@ -137419,6 +137399,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -140975,7 +140956,6 @@ ss.appalachianoutfitters.com
 ss.apprendreenligne.xyz
 ss.arcticexcursions.com
 ss.ardustore.dk
-ss.arganour.com
 ss.aronia-charlottenburg.ro
 ss.art-hub.bg
 ss.art-hub.hu
@@ -146149,7 +146129,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -148100,7 +148079,6 @@ stape.cepodontologia.com
 stape.cfios.com.br
 stape.cftvclube.com.br
 stape.cgemdobro.com.br
-stape.cgroupeducacao.com.br
 stape.chapadabackpackers.com
 stape.chapecoemdobro.com.br
 stape.chappa.com.br
@@ -155011,6 +154989,7 @@ t.dilling.se
 t.dincomoditate.ro
 t.ding.jobs
 t.distart.de
+t.domdex.com
 t.doublemax.net
 t.dreizinnen.com
 t.dsp-prod.demandbase.com
@@ -160226,7 +160205,6 @@ tktlt.freedomfatigues.com
 tktracker.aotter.net
 tktzgajycssox.site
 tkvied.levi.com.my
-tkvvyf.keen.pl
 tkvxdj.cars.com
 tkxqufyp.shop
 tkyjmfwjnzyov.site
@@ -163033,7 +163011,6 @@ track.msadcenter.nho.com
 track.msadcenter.oah.com
 track.msadcenter.pcp.com
 track.msadcenter.pszn.com
-track.msadcenter.pwpn.com
 track.msadcenter.qpz.com
 track.msadcenter.qsvv.com
 track.msadcenter.qymv.com
@@ -164396,7 +164373,6 @@ tracking.proquest.com
 tracking.protective.com
 tracking.providentestate.com
 tracking.pruefstelle-blatter.de
-tracking.prv.se
 tracking.psychicoz.com
 tracking.ptc.com
 tracking.publicidees.com
@@ -179138,7 +179114,6 @@ www.alirey.com
 www.alisatilsner.com
 www.alisverisgo.com
 www.alive-ua.com
-www.aljassarengineering.com
 www.alkociferblat.cc
 www.alkoholeswiatapl.shop
 www.alkotoxv.com
@@ -180958,6 +180933,7 @@ www.cs1g.com
 www.csaladititkok.com
 www.csalikft.hu
 www.csicskalangos.com
+www.csk.ru
 www.csr31.net.anwalt.de
 www.cstrespsurvey.ca
 www.ctaz.com
@@ -181260,7 +181236,6 @@ www.digitalsolutionscloud.page.gd
 www.digitaltiplevel.com
 www.dijipercurtain.com
 www.dilsave.shop
-www.dimarsbg.com
 www.dimupdate.edgeone.app
 www.diner-tag-thermos.ngrok-free.dev
 www.dinhex-gpt.com
@@ -181434,7 +181409,6 @@ www.drewno-forma.lovable.app
 www.drexironflowai.org
 www.drexironflowgpt-ai.org
 www.drfundaakin.com
-www.drgenov.com
 www.drimko.shop
 www.drimmake.com
 www.drinkoddly.blog
@@ -185423,7 +185397,6 @@ www.oio.godlopolski.com
 www.oissende.com
 www.oix.com
 www.ojang.pe.kr
-www.ojolink.fr
 www.ojrq.net
 www.okhan.net
 www.oklion.shop
@@ -187411,7 +187384,6 @@ www.sklep.doogi.eu
 www.sklep.mariuszmroz.pl
 www.sklepdom.pl
 www.sklepikon.shop
-www.sklepkody24.pl
 www.sklepmartesshop.com
 www.sklepmoda.com
 www.skleporia.shop
@@ -195767,6 +195739,7 @@ zmrzis8ow.com
 zmrzlin.amateurswild.com
 zmsfz.superduperburgers.com
 zmt.hellhorror.com
+zmufejpcotsv.com
 zmvhh.arcticcool.com
 zmvvg.tunedintokyo.com
 zmvwfd.icu
@@ -196591,7 +196564,6 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
-zzfxfz.com
 zzghp.velotricbike.com
 zzhc.vnet.cn
 zzhengre.com

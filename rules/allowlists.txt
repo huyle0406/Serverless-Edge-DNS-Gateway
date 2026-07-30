@@ -1,3 +1,4 @@
+buyproxies.org
 captive.apple.com
 connectivitycheck.gstatic.com
 h5.zdn.vn

@@ -10682,6 +10682,7 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11270,6 +11271,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -14457,6 +14459,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -14565,6 +14568,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -32742,6 +32746,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -40730,6 +40735,7 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
+epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -42657,9 +42663,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -56382,7 +56386,6 @@ iklantelevisi.com
 iklantext.com
 iklanumum.com
 iklparx8i.com
-ikmmigvehmod.com
 ikneio.aquantindia.com
 ikoac.thunderbirdskin.com
 ikonsripcordslice.qpon
@@ -64013,7 +64016,6 @@ layouthonouredbuyer.com
 laytroops.com
 lazada.bet
 lazada1688.com
-lazada77.com
 lazadaapp.shop
 lazesheitelprawner.qpon
 laziedqaidpavy.cfd
@@ -74119,6 +74121,7 @@ mbltzqounmuzh.space
 mbmar.wtf.tv
 mbn-1.com
 mbn.com.ua
+mbn.su
 mbn6duism5.com
 mbna.bruker.com
 mbns.bruker.com
@@ -82250,7 +82253,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -84120,7 +84122,6 @@ oqmqqm.icu
 oqnmh.cheesebros.com
 oqnns.urraeroi.it
 oqr4.destinia.in
-oqsrwbyb.com
 oqtuzo.b2bpartner.cz
 oqtxcfuumplee.website
 oquassaclaroesjaegars.cfd
@@ -116937,7 +116938,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -136512,7 +136512,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -142282,7 +142281,6 @@ woxbnkonxwvrk.site
 wozdcc.vidaxl.at
 wp-cdn.cityads.com
 wp-log.api.useinsider.com
-wp-worthy.de
 wp.alcmpn.com
 wp.lockmysneaker.com
 wpadmngr.com
@@ -142780,7 +142778,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com

@@ -811,7 +811,6 @@ gdmf.apple.com
 2b94vykm41cxve31k.cfd
 2ba0f6361c.com
 2bd89d5d9a.63b3c3ecc2.com
-2bps53igop02.com
 2bwiihrajn.com
 2c0c53f608.com
 2c0fe270d2.com
@@ -3378,7 +3377,6 @@ a8.tcha-tcha-japan.com
 a8.tecgate.jp
 a8.tech-base.net
 a8.techis.jp
-a8.techsales-class.worx.jp
 a8.tecpartners.jp
 a8.teddyworks.co.jp
 a8.tential.jp
@@ -4349,7 +4347,6 @@ a8cv.wordman.jp
 a8cv.worker.sukimaworks.app
 a8cv.workman.jp
 a8cv.world-goods.online
-a8cv.worx.jp
 a8cv.www.bedstyle.jp
 a8cv.www.bigability.co.jp
 a8cv.www.bitlock.jp
@@ -6642,7 +6639,6 @@ adhouse.pro
 adhub.digital
 adhub.media
 adhub.porcino-kinoko.workers.dev
-adhub.ru
 adhudg.nec-lavie.jp
 adhunt.net
 adhunter.media
@@ -7551,7 +7547,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -10705,8 +10700,6 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -23168,6 +23161,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.starseed.fr
 cdn.stat-rock.com
@@ -25968,6 +25962,7 @@ comms.cigna.com.sg
 comms.cigna.es
 comms.cignaglobalhealth.com
 comms.cision.com
+comms.dfsco.com
 comms.hello.global.ntt
 comms.services.global.ntt
 comms.supplychain.nhs.uk
@@ -32899,6 +32894,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -46436,7 +46432,6 @@ galactify.unrulymedia.com
 galaksion.com
 galapeequoniam.qpon
 galaxiemedia.fr
-galaxien.com
 galaxymeet.ru
 galaxypush.com
 galeaeevovae.com
@@ -47885,7 +47880,6 @@ globaloffers.link
 globalorders.net
 globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
-globalstars.ru
 globalteaser.com
 globaltizer.ru
 globaltrack.com
@@ -48207,7 +48201,6 @@ go.communication.lecnfpt.fr
 go.comres.emerson.com
 go.contact.alphabet.com
 go.convenenow.com
-go.conversantmedia.com
 go.coralreefs.xyz
 go.coralsands.xyz
 go.cornerstonebuildingbrands.com
@@ -59150,7 +59143,6 @@ instaread-ads.s3.amazonaws.com
 instaruptilt.com
 instayp.yieldlab.net
 insteadmodification.com
-insteadphooey.com
 insticator.com
 instilsemigree.qpon
 instinctiveads.com
@@ -60849,7 +60841,6 @@ jghkm.clevrblends.com
 jgid.cn
 jgigvs.tractive.com
 jgioj.eshopygoexpress.cz
-jgjduiropn.com
 jgk54x.6lemx1qqr6wzy4.cyou
 jgkgqvxmnrxjb.space
 jgkpsxlnqnknp.site
@@ -61333,6 +61324,7 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
+jordan.qunis.ru
 jornal.tesouros-da-julia.com
 joryvztqojsig.space
 josephclassics.com
@@ -72354,7 +72346,6 @@ madmini.com
 madnessbuzz.com
 madnesscoupon.com
 madnessjadegraceful.com
-madnet.ru
 madnet.yadro.ru
 madoverpricey.com
 madoverrice.com
@@ -75156,7 +75147,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -97715,7 +97705,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -109546,7 +109535,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -124634,7 +124622,6 @@ swasc.kaufland.ro
 swasc.kaufland.sk
 swasc.stackit.cloud
 swasc.thecompanystore.com
-swatad.com
 swatbeneficial.com
 swatledgesling.com
 swayersnonsuitsorosis.qpon
@@ -124684,7 +124671,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetstudents.com
 swelen.com
 swellstocking.com
@@ -126009,6 +125995,7 @@ t7ywa5ai3.com
 t7z.cupid.iqiyi.com
 t8.mailperformance.com
 t810.ctpost.com
+t84c3srgclc9.com
 t84lkychhcmi4696wij.cfd
 t85itha3nitde.com
 t8b8zfme8zkk7xqjyv.cfd
@@ -139697,7 +139684,6 @@ vkqbqmlp.realveed.com
 vkqowkbmcjzin.online
 vkrbl.faithgateway.com
 vkrdts.finestore.ro
-vkrzvxtrjqr.com
 vkscdg.solocruceros.com
 vksy.cn
 vkwaeo.com
@@ -143941,6 +143927,7 @@ www.ggsfq.com
 www.glf.mt.com
 www.globalinfoportal.com
 www.go.yourtruehealthmastery.com
+www.google-analytics.com
 www.googleadservices.com
 www.googleanalytics.com
 www.googlecommerce.com
@@ -143982,6 +143969,7 @@ www.increaserev.com
 www.indexexchange.com
 www.indoleads.com
 www.infineon-community.com
+www.info.osucascades.edu
 www.info.redhat.com
 www.infolinks.com
 www.infos-experts.adp.com

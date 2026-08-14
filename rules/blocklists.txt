@@ -7571,6 +7571,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -9573,7 +9574,6 @@ affiliates.thrixxx.com
 affiliates.treasureisland.com
 affiliates.ultrahosting.com
 affiliates.videoslots.com
-affiliates.vpn.ht
 affiliates.xapads.com
 affiliatesensor.com
 affiliatestonybet.com
@@ -10719,6 +10719,7 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11323,7 +11324,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -23251,7 +23251,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.starseed.fr
 cdn.stat-rock.com
@@ -24877,6 +24876,7 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -27293,6 +27293,7 @@ counter9.stat.ovh
 counterbot.com
 countercentral.com
 countercity.de
+countercity.net
 counterfeitlearnedpacify.com
 countergeo.com
 counterimageawoke.com
@@ -33563,6 +33564,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -43154,7 +43156,9 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -62588,7 +62592,6 @@ kameleoon.eu
 kaminari.space
 kaminari.systems
 kamiyatabinet.cyou
-kamju.cestlavie-newyork.com
 kamoiimclmryu.space
 kampaania.aripaevmeedia.ee
 kampanja.bhtelecom.ba
@@ -75506,7 +75509,6 @@ mediaiqdigital.com
 mediakraft.se
 medialand.ru
 medialets.com
-medialytics.com
 mediamath.com
 mediameter.by
 mediametrics.mpsa.com
@@ -85497,7 +85499,6 @@ out2.cityads.com
 out3.cityads.com
 outarcaninean.com
 outatebinits.com
-outbanner.hu.co.kr
 outbantavola.shop
 outbeamprigs.shop
 outbidplacardshowman.com
@@ -89667,7 +89668,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -96897,7 +96897,6 @@ rtb.mts.ru
 rtb.nowsrv.com
 rtb.nuismak.com
 rtb.openx.net
-rtb.pclick.yahoo.com
 rtb.prnteen.com
 rtb.prod.carbonatixaudio.com
 rtb.recoilnetwork.com
@@ -97575,7 +97574,6 @@ s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
 s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
-s-img.adskeeper.co.uk
 s-img.adskeeper.com
 s-img.idealmedia.io
 s-img.mgid.com
@@ -98175,7 +98173,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -103732,7 +103729,6 @@ serving.grapemedia.cz
 serving.greeter.lat
 serving.lookverin.com
 serving.mmmedia-group.com
-serving.omegalive.com.cy
 serving.platformance.io
 serving.srmg.com
 serving.stat-rock.com
@@ -103750,6 +103746,7 @@ servside.rxrprotect.com
 servsta.alezz-oud.com
 servt.modoro360.com
 servt.vidcrunch.com
+servtics.com
 servtraff97.com
 servustats.com
 servw.bid
@@ -103933,6 +103930,7 @@ sfgysl.todayplusnews.com
 sfgysl.top-rider.com
 sfhgqy.i-sozoku.com
 sfhosaynztxlb.space
+sfimfgmrccdk.com
 sfirst.penfed.org
 sfirstparty.here.com
 sfixretarum.com
@@ -110047,6 +110045,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -115425,6 +115424,7 @@ sside.colesia.it
 sside.danielesita.com
 sside.ferroibsa.it
 sside.flector.it
+sside.kascar.com.br
 sside.lotrek.it
 sside.melatoninaibsa.it
 sside.mercadofarma.com.br
@@ -118163,6 +118163,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -126812,7 +126813,6 @@ tagging.numafa.com
 tagging.o2.fr
 tagging.oceansideseafood.com
 tagging.omix.nl
-tagging.on-route.nl
 tagging.paintedforever.com
 tagging.plissehordeurenwebshop.nl
 tagging.poederbaas.com
@@ -137865,7 +137865,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net

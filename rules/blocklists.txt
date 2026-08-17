@@ -10755,6 +10755,7 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -10968,7 +10969,6 @@ am.alcmpn.com
 am.belambra.co.uk
 am.belambra.com
 am.blueduckredapple.com
-am.diecasepachas.cyou
 am.doggyandmoggie.co.uk
 am.everestop.io
 am.justtube.net
@@ -14666,6 +14666,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -22213,6 +22214,7 @@ capig.wombenwellness.com
 capig.worldsofpuppets.com
 capig.zerda.academy
 capig2.brummble.com
+capigapi.carflix.com.br
 capigateway.connexia.com
 capigateway.thegamersclub.com.au
 capis.spodlady.com
@@ -23365,7 +23367,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.starseed.fr
 cdn.stat-rock.com
@@ -27442,7 +27443,6 @@ counter9.stat.ovh
 counterbot.com
 countercentral.com
 countercity.de
-countercity.net
 counterfeitlearnedpacify.com
 countergeo.com
 counterimageawoke.com
@@ -43388,7 +43388,9 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -48293,6 +48295,7 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -57184,7 +57187,6 @@ igxqyi.iese.edu
 igyswj.sixt.it
 igyswjdwkppmo.online
 ih.adscale.de
-ih.charvetseedful.shop
 ih.serosaetoher.shop
 ih1.fileforums.com
 ihaau.growthbomb.com
@@ -57455,7 +57457,6 @@ ilzaqvvb.dagelijksebroodkruimels.nl
 ilzualntjfjjd.online
 ilzzb.retrofete.com
 im-apps.net
-im.bailbezetta.cfd
 im.c.yimg.jp
 im.cbsileads.com
 im.jpush.cn
@@ -64390,7 +64391,6 @@ kugeshuffle.com
 kugo.cc
 kugqq.fillingpieces.com
 kuheju.com
-kuinnlyznks.com
 kuiyizyzoadmf.online
 kujifkvgkygii.site
 kujsc5.ru
@@ -90214,7 +90214,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -96711,6 +96710,7 @@ roolhopes.shop
 roolv.jewlr.com
 roomgome.com
 roomierhisis.com
+roommateskinner.com
 roommatewon.com
 roomshikinginformal.com
 roomthycaner.cfd
@@ -97877,7 +97877,6 @@ rum.mauve.eu
 rum.perfops.net
 rum.uptime.com
 rum.us-east-1.amazonaws.com
-rumadel.com
 rumanalytics.com
 rumblebass.com
 rumblemeetinglank.com
@@ -98791,7 +98790,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -103642,7 +103640,6 @@ server.skyautokool.ee
 server.slimove.store
 server.slingshotstorebd.com
 server.sloul.com.br
-server.smartbabyshop.com.bd
 server.smartgedget.com
 server.smartradiologia.com.br
 server.smartshoping.com.bd
@@ -107409,7 +107406,6 @@ sizzling-camp.pro
 sizzling-flower.pro
 sizzlingoven.com
 sizzlingsmoke.com
-sj.coemptsruesome.shop
 sj2xvswu3r.com
 sjaakkiyas.cfd
 sjadkbbvcmdfd.website
@@ -110695,7 +110691,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -118829,6 +118824,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -134645,7 +134641,6 @@ traffic-exchange.com
 traffic-exchange.tv
 traffic-media.co
 traffic-media.co.uk
-traffic-monetizer.com
 traffic.acwebconnecting.com
 traffic.ad4game.com
 traffic.askrella.de
@@ -138626,6 +138621,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -144548,7 +144544,6 @@ wpnsrv.com
 wpnxiswpuyrfn.icu
 wpold.automatad.com
 wposrp.lampegiganten.no
-wppvfkrpw.com
 wppyub.mygenerator.com.au
 wpqxya.clarins.jp
 wprhk.fosteredcollection.com
@@ -146776,7 +146771,6 @@ xml-eu-v4.grantdk-2.online
 xml-eu-v4.gtmxso-b.online
 xml-eu-v4.gtmxso-c.online
 xml-eu-v4.gtmxso-v.online
-xml-eu-v4.h12ads.net
 xml-eu-v4.high-on-ads.com
 xml-eu-v4.icdsoap-1.online
 xml-eu-v4.icdsoap-2.online
@@ -146865,7 +146859,6 @@ xml-eu.epikads.com
 xml-eu.flowldsc.online
 xml-eu.frequency33media.com
 xml-eu.gtmxso-c.online
-xml-eu.h12ads.net
 xml-eu.icdsoap-1.online
 xml-eu.icdsoap-2.online
 xml-eu.icdsoap-3.online

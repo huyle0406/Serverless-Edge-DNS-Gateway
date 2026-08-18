@@ -6125,7 +6125,6 @@ ad.us.sinaimg.cn
 ad.usatoday.com
 ad.ust-ad.com
 ad.utop.ir
-ad.velomania.ru
 ad.video-mech.ru
 ad.vidver.to
 ad.vidverto.io
@@ -7773,7 +7772,6 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
-ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -7799,6 +7797,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -11037,6 +11036,8 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11697,7 +11698,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15667,7 +15667,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -16286,6 +16285,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -29866,6 +29866,7 @@ counter9.stat.ovh
 counterbot.com
 countercentral.com
 countercity.de
+countercity.net
 counterfeitlearnedpacify.com
 countergeo.com
 counterimageawoke.com
@@ -42743,7 +42744,6 @@ dsp.zog.link
 dsp3.adtelligent.com
 dsp5stero.com
 dspapi.bidtellect.com
-dsparking.com
 dspasv.com
 dspbyt.com
 dspchided.com
@@ -48837,9 +48837,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -53952,6 +53950,7 @@ gg.meitu.com
 gg.miinaa.com
 gg.miued.com
 gg.sonhoo.com
+gg.taoseyy.cn
 gg.uuu9.com
 gg.web3checkout.io
 gg86.pinggu.org
@@ -58727,7 +58726,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -64696,6 +64694,7 @@ horntooth.com
 hornymatches.com
 hornyspots.com
 hornywomancrsu.com
+horonstogly.com
 horribleguide.pro
 horribleprocedure.pro
 horribletrainer.com
@@ -65277,7 +65276,6 @@ humanz.com
 humapogonia.shop
 humayun.meowmesh.com
 humble-gap.com
-humblemotor.pro
 humbleoven.pro
 humbleparticular.com
 humblerenamour.com
@@ -70505,7 +70503,6 @@ izi.arana.ro
 izi.austinchildrensacademy.org
 izi.chicknpizza.ro
 izi.soricicrocanti.ro
-izi.xmobila.ro
 izimuves.com
 izirjftafazzm.website
 izitrckr.com
@@ -79716,7 +79713,6 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
-load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -88641,6 +88637,8 @@ metrics.cookinglight.com
 metrics.coolibar.com
 metrics.coordinatedcarehealth.com
 metrics.cornandsoybeandigest.com
+metrics.cornerbanca.ch
+metrics.cornercard.ch
 metrics.correos.es
 metrics.corrientelatina.com
 metrics.cort.com
@@ -91957,6 +91955,7 @@ moneyfree.co
 moneygram-nhantien23quoctwe.weebly.com
 moneygram24hh.weebly.com
 moneyhay.net
+moneymaiker.ru
 moneymakercdn.com
 moneyoyo.com
 moneyplatform.biz
@@ -116996,7 +116995,6 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
-server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -139004,7 +139002,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -147354,6 +147351,7 @@ supply.upjers.com
 supply.xapads.com
 supplyreward.com
 support-beacon.nakanohito.jp
+support-maps.live
 support-v2.sweetwaternow.com
 support-widget.nakanohito.jp
 support.a8.net
@@ -168299,7 +168297,6 @@ wkzewt.sportrysy.sk
 wkzvf2658.com
 wkzw.me
 wl-analytics.tsp.li
-wl-cornholio.com
 wl-pixel.index.digital
 wl.aniview.com.edgekey.net
 wl.gl
@@ -169264,7 +169261,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com

@@ -8943,6 +8943,7 @@ advantage.rsabroker.ca
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
+advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -11036,9 +11037,6 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11699,6 +11697,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15545,6 +15544,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -16286,7 +16286,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -23657,7 +23656,6 @@ capi.fashionx.com.bd
 capi.favecore.com
 capi.findprs.co.kr
 capi.finncotton.com
-capi.floor-land.co.uk
 capi.flowerboomdallas.com
 capi.fojak.com
 capi.foxxmotors.online
@@ -29333,6 +29331,7 @@ controlling.bartenbach.de
 controlsgc.prisacom.com
 controlslaverystuffing.com
 controversychilly.com
+conuber.getyoursafelink.com
 conusesstare.cfd
 conv.agroreceita.com.br
 conv.alquimiavioleta.site
@@ -30611,6 +30610,7 @@ crow.voracious.dev
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -30791,7 +30791,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -37066,7 +37065,6 @@ data.email.virginatlantic.com
 data.email.yourhealthandwellness.com
 data.email.yourmessage.aviva.co.uk
 data.email.yousee.dk
-data.email1.wiley.com
 data.email2.key.com
 data.emaildemo.hoodoo.digital
 data.emailinfo.novonordiskemailprograms.com
@@ -48846,7 +48844,9 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -50193,6 +50193,7 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -58736,6 +58737,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -70705,6 +70707,7 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
+jasim.luxurydor.com
 jaskhuczzexoh.site
 jasmine33.top
 jasmonebubas.cyou
@@ -79723,6 +79726,7 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
+load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -86502,6 +86506,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -87056,7 +87061,6 @@ mdws.venturecu.ca
 mdws.vermilioncreditunion.com
 mdws.victorycreditunion.ca
 mdws.visioncu.ca
-mdws.wetaskiwincreditunion.com
 mdws.weyburncu.ca
 mdws.wfcu.ca
 mdws.wpcu.ca
@@ -87441,6 +87445,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -103098,6 +103103,7 @@ plateau77.com
 platesskull.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
+platform-metrics-api.sharethis.com
 platform.33across.com
 platform.adcannyads.com
 platform.artilleryads.com
@@ -103900,7 +103906,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -107853,6 +107858,7 @@ r.bbci.co.uk
 r.bidswitch.net
 r.biotrck.com
 r.browser.miui.com
+r.buk5bovxwx3mjucviwifevv274k9jr.cyou
 r.casalemedia.com
 r.cdnpure.com
 r.cquotient.com
@@ -112616,6 +112622,7 @@ s-clk.rmp.rakuten.com
 s-cs.rmp.rakuten.com
 s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
+s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-ia.informatoreagrario.it
 s-img.adskeeper.co.uk
@@ -112798,7 +112805,6 @@ s.dsdjcu.com
 s.dsdkr4.com
 s.dsesj1.com
 s.dshfwa.com
-s.dshh37.com
 s.dsi27u.com
 s.dsk3sf.com
 s.dsp-prod.demandbase.com
@@ -113363,7 +113369,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -115398,7 +115403,6 @@ sdata.stsk9.com
 sdata.thearcticroyal.com
 sdata.theavedge.com
 sdata.thermos.co.uk
-sdata.wiley.com
 sdbobiolgvewi.site
 sdc.allianz-autowelt.com
 sdc.allianz-autowelt.de
@@ -117017,6 +117021,7 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
+server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -119202,6 +119207,7 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
+server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -123586,6 +123592,7 @@ shoughsluggerstyles.cyou
 shoukigaigoors.net
 shoulderinedible.com
 shoversuersjupard.cyou
+shovon.zelonii.com
 show-creative1.com
 show-sb.com
 show.afrobeatstotheworld.com
@@ -128112,7 +128119,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -129055,7 +129061,6 @@ smetrics.whitbyoshawahonda.com
 smetrics.whitehouseblackmarket.com
 smetrics.wholesaleclub.ca
 smetrics.wibe.com
-smetrics.wileyplus.com
 smetrics.williamhill.com
 smetrics.williamhill.es
 smetrics.williamhill.it
@@ -131934,6 +131939,7 @@ ss.bramidan.com
 ss.bramidan.fr
 ss.bramidan.ie
 ss.bramidan.nl
+ss.brandsupplies.store
 ss.bravedaughters.com
 ss.breezacool.com
 ss.brewshop.co.nz
@@ -139020,6 +139026,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -149754,6 +149761,7 @@ tagging.numafa.com
 tagging.o2.fr
 tagging.oceansideseafood.com
 tagging.omix.nl
+tagging.on-route.nl
 tagging.paintedforever.com
 tagging.plissehordeurenwebshop.nl
 tagging.poederbaas.com
@@ -157825,7 +157833,6 @@ tracks.davidkingsbury.co.uk
 tracks1.ferrari.com
 tracks20.com
 tracks3.ferrari.com
-trackserver.fundacaolemann.org.br
 trackset.it
 tracksfaster.com
 tracksgloss.com
@@ -169282,6 +169289,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -169418,6 +169426,7 @@ www.as1131.online
 www.asadcdn.com
 www.aservice.tools
 www.asiacpx.com
+www.asianmedia.com
 www.askingpoint.com
 www.assoc-amazon.com
 www.atad.gofokus.com

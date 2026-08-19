@@ -7779,7 +7779,6 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
-ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -7805,6 +7804,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -11044,8 +11044,6 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11706,7 +11704,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15559,6 +15556,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -15681,7 +15679,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -16302,7 +16299,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -17436,7 +17432,6 @@ avatraffic.com
 avault.net
 avavmz.bodylab.nl
 avaya-engage.avaya.com
-avazone.ru
 avazu.net
 avazudsp.net
 avazutracking.net
@@ -22392,6 +22387,7 @@ buqkrzbrucz.com
 buram.xyz
 burbarkholpen.com
 burblycatted.com
+burdaffi.burdadigital.pl
 burdenspinards.qpon
 burdieahmed.cyou
 bureaubittercomic.com
@@ -25373,7 +25369,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -25411,7 +25406,6 @@ cdn.tia-tanaka.blog
 cdn.timetravel-vienna.at
 cdn.titan26-ns.mse-raven.com
 cdn.topmind.io
-cdn.toysforall.eu
 cdn.tpmedia.online
 cdn.track.olx.com.br
 cdn.trackclicks.info
@@ -27183,6 +27177,7 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -28473,7 +28468,6 @@ columnhauledhygienic.com
 columnspastrybonnet.com
 com-cloud.co
 com-us.shop
-com.econa.com
 com.gardio.se
 com052bin.com
 com495.ru
@@ -29383,6 +29377,7 @@ control.vendere.test.asgoodasnew.com
 control.vendre.asgoodasnew.fr
 control.wirkaufens.at
 control.wirkaufens.de
+controle.albinoechecoliadv.com.br
 controlemeta.orodrigogurgel.com.br
 controlexpenses.adp.ca
 controlhall.com
@@ -29390,7 +29385,6 @@ controlling.bartenbach.de
 controlsgc.prisacom.com
 controlslaverystuffing.com
 controversychilly.com
-conuber.getyoursafelink.com
 conusesstare.cfd
 conv.agroreceita.com.br
 conv.alquimiavioleta.site
@@ -30674,6 +30668,7 @@ crow.voracious.dev
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -35034,10 +35029,7 @@ data-6f211e7e41.apps.iocnt.de
 data-6f4f333803.apps.iocnt.de
 data-6fd9590058.apps.iocnt.de
 data-7023b17a38.amberg24.de
-data-7023b17a38.ausbildung-oberpfalz.de
 data-7023b17a38.derneuetag.de
-data-7023b17a38.nofi-lauf.de
-data-7023b17a38.oberpfalz-pages.de
 data-7023b17a38.oberpfalznet.de
 data-7023b17a38.oberpfalznetz.de
 data-7023b17a38.onetz.de
@@ -35495,7 +35487,6 @@ data-af44ba1484.apps.iocnt.de
 data-af69d737cf.vision-mobility.de
 data-af7593657a.apps.iocnt.de
 data-af9a061aaf.deraktionaer.de
-data-af9f2765fb.apotheken-umschau.de
 data-af9f3dfb33.weltkunst.de
 data-af9f3dfb33.zeit.de
 data-afa7d79a5a.apps.iocnt.de
@@ -36979,7 +36970,6 @@ data.ecomms.art.com.au
 data.ecomms.beamconnect.com.au
 data.ecomms.qsuper.qld.gov.au
 data.ecomov.es
-data.econa.com
 data.ecorrecao.com.br
 data.ecotools.nl
 data.ecowater.be
@@ -40276,7 +40266,6 @@ devotoeloigns.qpon
 devs-data.hiaiabc.com
 devsms.capgemini.adobesandbox.com
 devtest.enautics.com
-devtizer.ru
 devtracking.risk.lexisnexis.com
 devuba.xyz
 dew9ckzjyt2gn.cloudfront.net
@@ -43036,7 +43025,6 @@ dt.kapstokkendirect.nl
 dt.kerstpakketdozen.nl
 dt.kluizencentre.nl
 dt.knitfactory.com
-dt.liebesgut-tiernahrung.de
 dt.livefresh.at
 dt.livefresh.be
 dt.livefresh.ch
@@ -50305,7 +50293,6 @@ fine-specialist.pro
 fine.aftershoot.com
 fine.aiforwork.co
 fine.alohaclub.nl
-fine.ampelmannshop.com
 fine.anandeshotel.com
 fine.apolone.com
 fine.becomelucid.com
@@ -53056,7 +53043,6 @@ galactify.unrulymedia.com
 galaksion.com
 galapeequoniam.qpon
 galaxiemedia.fr
-galaxien.com
 galaxymeet.ru
 galaxypush.com
 galeaeevovae.com
@@ -54609,6 +54595,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -54763,6 +54750,7 @@ globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalstars.ru
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -55947,6 +55935,7 @@ govn.cc
 govzzpzvfwctr.site
 gownbea.icu
 gowofhdmdtdhi.online
+gowoman.ru
 gowst.matson.nl
 goxfyr.popy.jp
 goxuptilts.cyou
@@ -57449,13 +57438,10 @@ gtm.breveceramica.com.br
 gtm.bricoflor.at
 gtm.bricoflor.be
 gtm.bricoflor.co.uk
-gtm.bricoflor.cz
 gtm.bricoflor.de
 gtm.bricoflor.fi
 gtm.bricoflor.fr
-gtm.bricoflor.it
 gtm.bricoflor.nl
-gtm.bricoflor.pl
 gtm.bricoflor.se
 gtm.briconeo.es
 gtm.briconeo.pt
@@ -62345,7 +62331,6 @@ guanaco.shelter.stream
 guandads.com
 guang.sdsgwy.com
 guang1.zhakao.cn
-guanjiabo.net
 guanoo.net
 guanswholely.cfd
 guaolassikyshachly.qpon
@@ -67123,7 +67108,6 @@ images.learn.follett.com
 images.learn.hitachiconsulting.com
 images.learn.internationalsosfoundation.org
 images.learn.pharmacyclics.com
-images.learn.queenslibrary.org
 images.learn.shredit.com
 images.learn.unisourceworldwide.com
 images.learn.vmware.com
@@ -82812,6 +82796,7 @@ logv2.mp3.zing.vn
 logv3.metric.vn
 logx.optimizely.com
 logxp.ru
+logz.ru
 logz.tekiusa.com
 logzh.dantocmiennui.vn
 lohhp.champion.com
@@ -89845,6 +89830,7 @@ metrics.officialgroove.com
 metrics.okcashbag.com
 metrics.olgaintimates.com
 metrics.omniture.com
+metrics.omya.com
 metrics.ondacero.es
 metrics.onewegg.com
 metrics.onshape.com
@@ -91132,6 +91118,7 @@ mini.hao123.com
 mini.m-able.app
 miniast.com
 minibilling.com
+minidoc.ru
 minigame5-normal-hl.zijieapi.com
 minigame5-normal-lq.zijieapi.com
 minikenfiercen.com
@@ -103247,6 +103234,7 @@ plateau77.com
 platesskull.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
+platform-metrics-api.sharethis.com
 platform.33across.com
 platform.adcannyads.com
 platform.artilleryads.com
@@ -104051,7 +104039,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -108017,7 +108004,6 @@ r.bbci.co.uk
 r.bidswitch.net
 r.biotrck.com
 r.browser.miui.com
-r.bthis.com
 r.casalemedia.com
 r.cdnpure.com
 r.cquotient.com
@@ -110344,7 +110330,6 @@ rgtm.bestvit.de
 rgtm.cosmedischinstituut.be
 rgtm.cosmeta.hu
 rgtm.de5smil.dk
-rgtm.doggysafe.de
 rgtm.mydieselpro.com
 rgtm.penez.be
 rgtm.rhng.com.au
@@ -113543,6 +113528,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -117502,7 +117488,6 @@ server.coolcatalog.net
 server.coollikemama.com.br
 server.copasurfers.com
 server.coracaodogigante.com.br
-server.coredenz.com
 server.corrienne.com
 server.cosmicaventura.com.br
 server.costurandomagia.com.br
@@ -123061,14 +123046,10 @@ sgtm.valeriosolari.com
 sgtm.vanguardprague.cz
 sgtm.vanillabeankings.com
 sgtm.vanlife.us
-sgtm.vbs-hobby.at
 sgtm.vbs-hobby.be
-sgtm.vbs-hobby.ch
 sgtm.vbs-hobby.com
-sgtm.vbs-hobby.cz
 sgtm.vbs-hobby.fr
 sgtm.vbs-hobby.nl
-sgtm.vbs-hobby.pl
 sgtm.vdi-wissensforum.de
 sgtm.vdnkitchen.nl
 sgtm.veatzz.com
@@ -131267,6 +131248,7 @@ spurrerklamath.shop
 spurtlecucuyo.com
 spurtshrubvending.com
 spurtvastsummer.com
+sputnik1.ru
 sputumshrog.cyou
 spx-s1.adangle.online
 spx-s1.agl006.host
@@ -139098,6 +139080,7 @@ sst.reflections-copenhagen.com
 sst.reftech.cz
 sst.refurbished.nl
 sst.rehcore.com
+sst.reilink.com
 sst.reim.no
 sst.reinpeptides.com
 sst.reisknaller.nl
@@ -139197,6 +139180,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -142071,6 +142055,7 @@ stape.dukctproducoes.com
 stape.dumaxclean.com
 stape.duopet.com.br
 stape.durasa.com.br
+stape.durata.com.br
 stape.dynamusacademia.com.br
 stape.e431.jp
 stape.easybuilder.com.br
@@ -149509,7 +149494,6 @@ t.villanova.com
 t.virginiasports.com
 t.visby.pl
 t.vistasancheztrancon.com
-t.visx.net
 t.vitaliasupplements.co
 t.vitori.de
 t.voyages-sncf.com
@@ -152738,6 +152722,7 @@ tizernaya-reklama.ru
 tiznmykuxnu.in
 tizofvtuqo.com
 tizru.com
+tizy.ru
 tizzywaygang.shop
 tj3rql9siwef.www.freecodecamp.org
 tj6x17mykgqw4gh1.vgy56qwppl23h4j2zg1hqxv4.cfd
@@ -156148,7 +156133,6 @@ track.soportearg.store
 track.sp.crdl.io
 track.span-smt.jp
 track.sparta-tracking.xyz
-track.speedfitness.de
 track.spiritualwhishper.com
 track.sportreviewguys.com
 track.sportsfan1.com
@@ -158561,7 +158545,6 @@ tremorvideo.com
 trench.s3sensitivity.com
 trenchefficaciousworkman.com
 trendads.reactivebetting.com
-trendcounter.de
 trendemon.com
 trendii.com
 trendmd.com
@@ -162513,6 +162496,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -162660,7 +162644,6 @@ utiq.actu.net
 utiq.aisnenouvelle.fr
 utiq.allocine.fr
 utiq.annalect.es
-utiq.apotheken-umschau.de
 utiq.applesfera.com
 utiq.ariase.com
 utiq.ariva.de
@@ -169486,7 +169469,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -173790,8 +173772,6 @@ yobrfvmtaqrxe.website
 yobuqokipnfaxkeor.net
 yobxluanlfwvu.space
 yobyshbpomomy.space
-yoc-adserver.com
-yoc-performance.com
 yoc.younited-credit.com
 yocbiylltzzaj.website
 yodalytics.com
@@ -175508,6 +175488,7 @@ zoaxnpworejgn.site
 zobgqg.sirobari.jp
 zobtmj.kiddies-kingdom.com
 zocwfosbxwqru.website
+zoda.ru
 zodarpnpsrnds.website
 zodescdmuxxqq.site
 zodflbjwjyzxjg.com

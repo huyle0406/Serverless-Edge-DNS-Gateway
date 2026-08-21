@@ -15571,6 +15571,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -16315,7 +16316,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -16479,6 +16479,7 @@ asia-pnrt-stsdk.vivoglobal.com
 asia-prt-stsdk.vivoglobal.com
 asia-stsdk.vivoglobal.com
 asia.adform.net
+asia.com
 asia.creativecdn.com
 asia.marketo.com
 asiacpx.com
@@ -23379,6 +23380,7 @@ cambaddies.com
 cambiamonacid.qpon
 camcrush.com
 camdough.com
+camduty.com
 camel.gastro-plan.app
 camel.headfarming.com
 camel.nonpopularopinion.com
@@ -23531,6 +23533,7 @@ cane.intel.de
 cane.intel.es
 cane.intel.fr
 cane.intel.in
+cane.intel.it
 cane.intel.la
 cane.intel.pl
 canekilttantrum.com
@@ -41901,7 +41904,9 @@ dogo.intel.co.jp
 dogo.intel.co.kr
 dogo.intel.co.uk
 dogo.intel.com.au
+dogo.intel.com.br
 dogo.intel.com.tr
+dogo.intel.com.tw
 dogo.intel.de
 dogo.intel.es
 dogo.intel.fr
@@ -46707,6 +46712,7 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
+epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -50295,6 +50301,7 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -54620,6 +54627,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -58850,6 +58858,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -78337,7 +78346,6 @@ load.gtm.forsikringstjek.nu
 load.gtm.fragranza.sk
 load.gtm.francecroquettes.com
 load.gtm.francocicerchia.com
-load.gtm.franquiacredfacil.com.br
 load.gtm.fratellicontorno.com
 load.gtm.freiheitglow.com
 load.gtm.frilandskoed.dk
@@ -113511,7 +113519,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -116177,6 +116184,7 @@ seehits.com
 seeimmunityswim.com
 seeinglie.com
 seeingsamastia.cyou
+seek.intel.com
 seek.uwa.edu.au
 seekbang.com
 seekdaters.com
@@ -116639,6 +116647,7 @@ serve-pl.acuityplatform.com
 serve-static.cheqzone.com
 serve-west.acuityplatform.com
 serve.adclixx.net
+serve.adnet-2.oncustomer.asia
 serve.adspruce.com
 serve.adtrackers.net
 serve.affiliate.heurekashopping.sk
@@ -130386,7 +130395,6 @@ somtrdc.jobstreet.co.id
 somtrdc.jobstreet.com
 somtrdc.jobstreet.com.ph
 somtrdc.jobstreet.vn
-son-in-lawmorbid.com
 sonabudsshop-ss.checkoutera.com
 sonabudsshop-sst.shopboosta.com
 sonantpoufedgaucher.cyou
@@ -142194,7 +142202,6 @@ stape.fabiodantascursos.com.br
 stape.fabiogiusti.com.br
 stape.fabirochaboutique.com.br
 stape.fabricadesocios.com
-stape.fabriciaperon.com.br
 stape.fabriciodutra.com.br
 stape.fabrilcenter.com.br
 stape.fabulosoatelie.com.br
@@ -145922,6 +145929,7 @@ stats.unlimapps.com
 stats.unlimited24.de
 stats.unnaturalhistorytv.com
 stats.unrulymedia.com
+stats.urban-media.com
 stats.urban-vpn.com
 stats.us-light-edge.com
 stats.uscreen.io
@@ -150456,7 +150464,6 @@ taneyk.into-led.com
 tangerine.optika-oftalmos.si
 tangerineprestigiousbehaved.com
 tangerskinker.cfd
-tangible-guarantee.pro
 tangibleteam.com
 tangierlocoman.com
 tangleproceeding.com
@@ -162473,7 +162480,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -175397,7 +175403,6 @@ zmvvg.tunedintokyo.com
 zmvwfd.icu
 zmyodzglqdaox.site
 zmyopn.babadotop.com.br
-zmyvawmwezr.com
 zmyzqcinzyixm2e.cfd
 zmzkyj.agrieuro.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com

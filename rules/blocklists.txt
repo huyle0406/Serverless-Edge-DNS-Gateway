@@ -7787,6 +7787,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -11052,6 +11053,7 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -15569,7 +15571,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -15692,6 +15693,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -16313,6 +16315,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -19230,7 +19233,6 @@ beanedrollman.shop
 beanofarls.shop
 beanstalkdata.com
 beap-bc.yahoo.com
-bear.builtbyborda.com
 bear.datingrelationshipsadvice.com
 bear.jake.nyc
 bear.modulr.design
@@ -23529,7 +23531,6 @@ cane.intel.de
 cane.intel.es
 cane.intel.fr
 cane.intel.in
-cane.intel.it
 cane.intel.la
 cane.intel.pl
 canekilttantrum.com
@@ -27186,7 +27187,6 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -30867,6 +30867,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -41182,7 +41183,6 @@ disfiguredrow.com
 disgigattars.qpon
 disgorgephew.com
 disgownsealess.cyou
-disguised-confidence.pro
 disguisedtimingbreath.com
 disguisestoughprocured.com
 disgustinghighnesseventually.com
@@ -41901,9 +41901,7 @@ dogo.intel.co.jp
 dogo.intel.co.kr
 dogo.intel.co.uk
 dogo.intel.com.au
-dogo.intel.com.br
 dogo.intel.com.tr
-dogo.intel.com.tw
 dogo.intel.de
 dogo.intel.es
 dogo.intel.fr
@@ -46709,7 +46707,6 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
-epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -50298,7 +50295,6 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -58854,7 +58850,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -113516,6 +113511,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -116181,7 +116177,6 @@ seehits.com
 seeimmunityswim.com
 seeinglie.com
 seeingsamastia.cyou
-seek.intel.com
 seek.uwa.edu.au
 seekbang.com
 seekdaters.com
@@ -117083,7 +117078,6 @@ server.bailarinapreparada.com.br
 server.bajeemaat.com
 server.balbiguga.com.br
 server.baldinini-shop.com
-server.balighor.com
 server.balsamocongelados.com.br
 server.bambinos.live
 server.bananafood.com.br
@@ -162479,6 +162473,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -169445,7 +169440,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com

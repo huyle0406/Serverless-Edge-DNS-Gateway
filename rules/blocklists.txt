@@ -11049,6 +11049,7 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -11715,7 +11716,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -16312,6 +16312,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -27183,6 +27184,7 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -27593,6 +27595,7 @@ clprfkljfcmnm.site
 clprr.com
 clpx.l2l11bqg1myq1ytu2jck3.cyou
 clrci.canadagoose.com
+clrpdhptoddatj49.pro
 clrqbqtonradt.online
 clrstm.com
 cls.vrvm.com
@@ -30861,6 +30864,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -48940,9 +48944,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -54606,6 +54608,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -54760,7 +54763,6 @@ globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalstars.ru
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -58838,7 +58840,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -64825,7 +64826,6 @@ hortestoz.com
 hortmecca.cfd
 hosierypressed.com
 hosierysibling.com
-hospitable-effort.pro
 hospitabledues.com
 hospitablehall.com
 hospitablehat.com
@@ -69991,6 +69991,7 @@ iqzjdpmkzglge.online
 iqzone.com
 ir-br.amazon-adsystem.com
 ir-ca.amazon-adsystem.com
+ir-cn.amazon-adsystem.com
 ir-de.amazon-adsystem.com
 ir-es.amazon-adsystem.com
 ir-fr.amazon-adsystem.com
@@ -79831,7 +79832,6 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
-load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -113498,6 +113498,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -118447,7 +118448,6 @@ server.lojastemperare.com.br
 server.lojaybera.com.br
 server.lolajoalheria.com.br
 server.londonnyetickets.com
-server.londriaco.com.br
 server.loop-agency.ch
 server.lopesurban.com.br
 server.lorenaalcantara.com.br
@@ -119332,7 +119332,6 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
-server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -123713,7 +123712,6 @@ shoughsluggerstyles.cyou
 shoukigaigoors.net
 shoulderinedible.com
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-creative1.com
 show-sb.com
 show.afrobeatstotheworld.com
@@ -139146,7 +139144,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com

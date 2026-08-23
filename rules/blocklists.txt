@@ -6146,6 +6146,7 @@ ad.us.sinaimg.cn
 ad.usatoday.com
 ad.ust-ad.com
 ad.utop.ir
+ad.velomania.ru
 ad.video-mech.ru
 ad.vidver.to
 ad.vidverto.io
@@ -6536,7 +6537,6 @@ adcamp.ru
 adcannyxml.com
 adcash.com
 adcast.deviantart.com
-adcast.ru
 adcct.advancecctvbd.com
 adcdn.gamemeca.com
 adcdn.goo.ne.jp
@@ -7788,6 +7788,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -11060,7 +11061,6 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11726,7 +11726,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15581,6 +15580,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -15703,6 +15703,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -25402,7 +25403,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -39708,6 +39708,7 @@ deductsuggest.com
 dedxzq.footway.is
 deeavouter.com
 deebcards-themier.com
+deecash.com
 deedeedwinos.com
 deedeisasbeau.org
 deefauph.com
@@ -54685,7 +54686,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -58920,7 +58920,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -67904,6 +67903,7 @@ includemodal.com
 inco.clinicaincorpus.com.br
 incognitosearches.com
 incogssr.boatrentalbali.com
+income.lplnow.com
 incomehippo.com
 incomesforeleg.qpon
 incoming-telemetry.thunderbird.net
@@ -68632,6 +68632,7 @@ info.paynewest.com
 info.payroll4construction.com
 info.pelicans.com
 info.pella.com
+info.pencewealthmanagement.com
 info.penna.com
 info.penrithpanthers.com.au
 info.pentra.aleragroup.com
@@ -84838,6 +84839,7 @@ mappilaaverrer.com
 maps.amung.us
 mapvaa.reloj.es
 maqtaerditpoz.site
+mar.englishkaku.com
 maragedperiapt.qpon
 marapcana.online
 mararalindera.com
@@ -87679,7 +87681,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -106620,7 +106621,6 @@ pzyzpohudsgnl.space
 pzzdhj.rockyboots.com
 q-counter.com
 q-stats.nl
-q.11ghqextfougerengtx5gyueby4.cyou
 q.addthis.com
 q.adrta.com
 q.azcentral.com
@@ -108020,6 +108020,7 @@ qxuebkyiexuez.online
 qxummanifgrjp.site
 qxvqhy.miliboo.es
 qxwoiv.com
+qxx8j3z2vnu1e3.e4obp715nx9rlp.cyou
 qxyvvfwjiqonx.online
 qxzfdeagblwys.space
 qyatej.bocage.fr
@@ -113684,7 +113685,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -117010,7 +117010,6 @@ server.advisi.com.br
 server.advogadamaryannacontratos.com.br
 server.advogadopro.adv.br
 server.advogadosoliveira.com.br
-server.advogadosposicionados.com.br
 server.advprofviniciusmelo.com.br
 server.adwort.de
 server.aecmateriais.com.br
@@ -125037,9 +125036,17 @@ smart.idmnet.pl
 smart.newniche.com
 smart.styria-digital.com
 smart.tubeadvertising.eu
+smart1019.lplnow.com
+smart1064.lplnow.com
+smart112.lplnow.com
 smart1adserver.com
+smart212.lplnow.com
 smart2cnjuh34jb.com
+smart322.lplnow.com
+smart46.lplnow.com
 smart4ads.com
+smart62.lplnow.com
+smart98.lplnow.com
 smartads.statsperform.com
 smartads.tech
 smartadserver.com
@@ -128435,6 +128442,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -148248,6 +148256,7 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
+sweetslope.com
 sweetsoul.net
 sweetstudents.com
 swelen.com
@@ -169674,6 +169683,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com

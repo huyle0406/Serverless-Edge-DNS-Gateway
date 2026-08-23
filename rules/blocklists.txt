@@ -1,5 +1,4 @@
 gdmf.apple.com
-0.0.0.0.cyou
 0.avmarket.rs
 0.myikas.com
 0.net.easyjet.com
@@ -3044,6 +3043,7 @@ a.sportradarserving.com
 a.spv.se
 a.stadio.dk
 a.stailisyti.space
+a.stat.xiaomi.com
 a.staticport.com
 a.steepto.com
 a.streamed.pk
@@ -6540,6 +6540,7 @@ adcamp.ru
 adcannyxml.com
 adcash.com
 adcast.deviantart.com
+adcast.ru
 adcct.advancecctvbd.com
 adcdn.gamemeca.com
 adcdn.goo.ne.jp
@@ -7791,6 +7792,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -8460,7 +8462,6 @@ adservice.google.de
 adservice.google.se
 adservice.hani.co.kr
 adservice.sbs.co.kr
-adservice.tohsoft.com
 adservicemedia.dk
 adservices.brandcdn.com
 adserving.menatech.net
@@ -11065,7 +11066,7 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -11536,7 +11537,6 @@ ams1.everesttech.net
 amsctdspsyeqf.website
 amsgjybwclvoq.space
 amt.audio-mobil.com
-amt.ru
 amt3.com
 amtmf.alphforge.com
 amtrakcitee.com
@@ -11733,7 +11733,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15587,7 +15586,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -15710,6 +15708,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -16331,6 +16330,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -23190,6 +23190,7 @@ c9pgryrmt4.com
 ca-api.cafe24data.com
 ca-g2.gumgum.com
 ca-log.cafe24data.com
+ca.429men.com
 ca.4wank.com
 ca.careercapital.coach
 ca.clcknads.pro
@@ -23963,6 +23964,7 @@ capi.valhallaindicator.com
 capi.valhallaindicators.com
 capi.vatconsbd.com
 capi.vaxon.site
+capi.virtualponno.shop
 capi.vivacleanhouse.co.uk
 capi.voyaro.co
 capi.wildgooseescapes.com
@@ -49028,9 +49030,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -50385,6 +50385,7 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -54709,7 +54710,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -54864,7 +54864,6 @@ globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalstars.ru
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -55706,7 +55705,6 @@ goasst.guidedoutdooradventures.co.uk
 goat.dabric.xyz
 goat.dheinemann.com
 goat.fpmelb.org
-goat.gavv.in
 goat.invisibledragonltd.com
 goat.kunalslab.com
 goat.lymedocs.com
@@ -58946,6 +58944,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -66467,7 +66466,6 @@ ievdpg.humanscale.com
 ievtzbqsunqwz.space
 iewjctcinxthi.space
 iexgekxdoqlcn.website
-iexyxnegvztmaf.com
 ieyzrxtaxfqpc.website
 iezxmddndn.com
 if.ctimais.com.br
@@ -70922,7 +70920,6 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
-jasim.luxurydor.com
 jaskhuczzexoh.site
 jasmine33.top
 jasmonebubas.cyou
@@ -79992,7 +79989,6 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
-load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -87721,6 +87717,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -96778,7 +96775,6 @@ nuxp9z1wl15ve2.rest
 nuxuwhawo.com
 nuyibu.pieper.de
 nuyujp.barstoolsports.com
-nuzbyampvfdsss.com
 nuzostgcylun.com
 nv-ad.24hstatic.com
 nv.fascparbate.com
@@ -106677,6 +106673,7 @@ pzyzpohudsgnl.space
 pzzdhj.rockyboots.com
 q-counter.com
 q-stats.nl
+q.11ghqextfougerengtx5gyueby4.cyou
 q.addthis.com
 q.adrta.com
 q.azcentral.com
@@ -106765,7 +106762,6 @@ qakqvajmhdpzd.store
 qal0.destinia.gr
 qaldatrxnjssm.site
 qalizyiehylan.space
-qaltylntnghu.com
 qamhngalamvbl.site
 qamnyl.bever.nl
 qamrajywditki.online
@@ -117411,7 +117407,6 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
-server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -119586,7 +119581,6 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
-server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -123966,7 +123960,6 @@ shoughsluggerstyles.cyou
 shoukigaigoors.net
 shoulderinedible.com
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-creative1.com
 show-sb.com
 show.afrobeatstotheworld.com
@@ -139412,7 +139405,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -163438,7 +163430,6 @@ utopiaband.net
 utoumine.net
 utppooxusnnzr.online
 utqfh.dermdude.com
-utqoavwu.com
 utqsamjgxtrhv.website
 utrabixfwlgyq.site
 utraff.com
@@ -169764,6 +169755,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -170989,7 +170981,6 @@ xadcentral.com
 xads.codon.vn
 xads.joboko.com
 xadsmart.com
-xaertbvtrv.com
 xaeyjn.luzzibag.com
 xafrpagtesteb.online
 xafszmuibdlps.site
@@ -171224,7 +171215,6 @@ xfmybdtedhzel.website
 xfnams.undone.co.jp
 xfobuc.serenaandlily.com
 xfqiwwdxryuvo.website
-xfqvroqnu.com
 xfrguohlskkmq.site
 xfslhh.visureinrete.it
 xfsyuigochwnt.space

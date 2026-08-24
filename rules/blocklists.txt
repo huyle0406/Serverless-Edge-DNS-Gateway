@@ -7706,7 +7706,6 @@ ads-yallo-production.imgix.net
 ads.123net.jp
 ads.152media.com
 ads.1thegioi.vn
-ads.2mdnsys.com
 ads.360yield.com
 ads.568play.vn
 ads.5ci.lt
@@ -7798,7 +7797,6 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
-ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -11078,8 +11076,6 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11747,7 +11743,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -25957,7 +25952,6 @@ cf.rocketquote.com
 cf.wolfclicktrack.com
 cf7xvu3z6z.com
 cfa-js.cafe24.com
-cfa.2mdnsys.com
 cfarvjcutttkn.website
 cfbgxtwssfqah.online
 cfbjod.zooeretz.co.il
@@ -30967,7 +30961,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -49428,6 +49421,7 @@ fbcapi.avent-media.fr
 fbcapi.ayuverabd.com
 fbcapi.blanksboutique.com
 fbcapi.digitalever.com.bd
+fbcapi.ecory.com.bd
 fbcapi.glowhomemart.com
 fbcapi.gonaturebd.com
 fbcapi.halalgiftbd.com
@@ -54778,6 +54772,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -55351,7 +55346,6 @@ go.enterprise.spectrum.com
 go.ero-advertising.com
 go.errpgrt.com
 go.esri.fi
-go.estoneworks.com
 go.etoro.com
 go.event.eset.com
 go.exactonline.de
@@ -56422,7 +56416,6 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
-grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -79206,7 +79199,6 @@ load.juboiuler.swissdentalacademy.com
 load.julojo.sinezy.fr
 load.jwix.deregioslotenmaker.nl
 load.ka.kaias.se
-load.kanhuwfa.chairking.com
 load.kb6each0wp.cataloniaholidaylettings.co.uk
 load.kbmoundn.lineaer.dk
 load.kbx.foreverparty.co.uk
@@ -104353,7 +104345,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -142590,6 +142581,7 @@ stape.fabiodantascursos.com.br
 stape.fabiogiusti.com.br
 stape.fabirochaboutique.com.br
 stape.fabricadesocios.com
+stape.fabriciaperon.com.br
 stape.fabriciodutra.com.br
 stape.fabrilcenter.com.br
 stape.fabulosoatelie.com.br
@@ -145094,7 +145086,6 @@ static-tracking.klaviyo.com
 static-uk.chartbeat.com
 static-v2.trbo.com
 static.100conversions.com
-static.2mdnsys.com
 static.9versemedia.com
 static.a-ads.com
 static.a-mo.net
@@ -145603,7 +145594,6 @@ stats-sg.ganymede.eu
 stats-ssl.mdanderson.org
 stats.123c.vn
 stats.1und1-drillisch.de
-stats.2mdnsys.com
 stats.45rpm.ch
 stats.4travel.jp
 stats.aapt.com.au
@@ -148183,7 +148173,6 @@ svs.bloxearplugs.com
 svs.svamphuset.com
 svsgar.pinkpanda.sk
 svside.trilogo.com.br
-svsmwlfqmj.com
 svst.pubandgo.de
 svstape.hotelfazendariodosfrades.com.br
 svstfplolhlll.website
@@ -150107,7 +150096,6 @@ tag.fastpatchdrywallrepair.com
 tag.flagship.io
 tag.fmscycles.com
 tag.foreverfierce.com
-tag.franquiahomeangels.com.br
 tag.furniture4you.nl
 tag.gammaplatform.com
 tag.geeker.co
@@ -156021,7 +156009,6 @@ track.enzzo.gr
 track.ertha.io
 track.escoladefotografos.com
 track.escoladoinconsciente.com.br
-track.estoneworks.com
 track.eurasc.org
 track.eurogirlsescort.com
 track.europe.nflshop.com
@@ -156352,7 +156339,6 @@ track.mvtcorp.com.br
 track.my.ofpfunding.com
 track.mybioherb.com
 track.mycliplister.com
-track.myclipstone.com
 track.mycustomplannow.com
 track.myiphonebd.shop
 track.myli.io

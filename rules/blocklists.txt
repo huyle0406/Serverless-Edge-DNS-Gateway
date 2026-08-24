@@ -758,7 +758,6 @@ gdmf.apple.com
 2518june2024.com
 2520june2024.com
 2524june2024.com
-2526june2024.com
 254a.com
 25662zubo23739.com
 25710b5d95.com
@@ -7796,6 +7795,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -15598,7 +15598,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -15721,6 +15720,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -16346,6 +16346,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -25436,6 +25437,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -46827,7 +46829,6 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
-epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -67281,7 +67282,6 @@ images.learn.follett.com
 images.learn.hitachiconsulting.com
 images.learn.internationalsosfoundation.org
 images.learn.pharmacyclics.com
-images.learn.queenslibrary.org
 images.learn.shredit.com
 images.learn.unisourceworldwide.com
 images.learn.vmware.com
@@ -104311,6 +104311,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -117634,6 +117635,7 @@ server.canvasandcraft.shop
 server.capanematreinamentos.com
 server.capcutcriativo.com
 server.capitaldigestivecare.com
+server.capitalhealthseguros.com.br
 server.capitaoclean.com
 server.capolavoro.com.br
 server.capriccidargento.it
@@ -118222,6 +118224,7 @@ server.fintegra.com.br
 server.fioriabaya.com
 server.firestopspray.farazimart.com
 server.fisiologiadidatica.com
+server.fisioterapiaregenerativa.com.br
 server.fitnessimage.com.au
 server.fitnesssystem.com.br
 server.fitoessencia.com.br
@@ -128599,7 +128602,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -147132,6 +147134,7 @@ stream.unibotscdn.com
 stream.youxxjav.xyz
 streamaccidentally.com
 streamateaccess.com
+streamdefence.com
 streameye.net
 streamflash-app.com
 streamin.to
@@ -162872,6 +162875,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -166093,6 +166097,7 @@ vtopo.crateandbarrel.ca
 vtoqtpohhrghk.online
 vtpjt.calisibeauty.co.uk
 vtrabj.icu
+vtracker.net
 vtracy.de
 vtrbgosvdozfp.online
 vtrelphail.com
@@ -169833,6 +169838,7 @@ www-googletagmanager.l.google.com
 www-icloud.com
 www-mfacebook.com.vn
 www-mt.daiichisankyo-hc.co.jp
+www-path.com
 www-sadobe.384.co.jp
 www-sadobe.anabuki-community.com
 www-sadobe.anabuki.co.jp
@@ -169872,7 +169878,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com

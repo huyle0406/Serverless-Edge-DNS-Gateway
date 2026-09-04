@@ -3,6 +3,16 @@
 
 A secure, high-performance DNS-over-HTTPS (DoH) proxy running on Cloudflare's global Edge via Pages Functions. Optimized for speed, geographic accuracy (ECS), and professional adblocking.
 
+<p align="center">
+  <img src="https://img.bibica.net/0Biaw3bp.webp" alt="ECS">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=GRUVWBHA360">
+    <img src="https://img.youtube.com/vi/GRUVWBHA360/maxresdefault.jpg" alt="Watch on YouTube">
+  </a>
+</p>
+
 ---
 
 ## ⚡ Key Features
@@ -13,7 +23,7 @@ A secure, high-performance DNS-over-HTTPS (DoH) proxy running on Cloudflare's gl
 *   **ECS Geo-Optimization (RFC 7871)**: Injects EDNS Client Subnet (IPv4 `/24`, IPv6 `/48`) to ensure CDNs (Akamai, CloudFront, Fastly, BunnyCDN, Gcore) resolve you to the nearest servers.
 *   **Sequential Failover Reliability**: 
     *   **Primary/Fallback**: Tries Cloudflare Gateway primary endpoint first, with automatic failover to a backup endpoint if it fails.
-    *   **Geo-Bypass**: Automatically detects geo-blocked results (127.0.0.1) and re-resolves via **Mullvad DNS**.
+    *   **Geo-Bypass**: Automatically detects geo-blocked results (127.0.0.1) and re-resolves via **Quad9 DNS**.
 *   **Early Response Filtering**: Drops unnecessary query types (`ANY`, `AAAA`, `PTR`, `HTTPS`) at the edge to save resources and improve speed.
 *   **Private TLD Shield**: Prevents local/internal domain leaks (e.g., `.local`, `.lan`, router logins) by returning `NXDOMAIN` instantly.
 *   **DNS Redirection (CNAME Injection)**: Redirects domain A to domain B using a CNAME record. This allows forcing a specific CDN chain or overriding resolution (e.g., Bilibili, TikTok, Medium).
@@ -50,7 +60,7 @@ The parameters below are pre-configured with optimal defaults.
 | :--- | :--- | :--- |
 | `UPSTREAM_PRIMARY` | Cloudflare Gateway | Main resolver URL. |
 | `UPSTREAM_FALLBACK` | Cloudflare Gateway | Backup resolver. |
-| `UPSTREAM_GEO_BYPASS`| `dns.mullvad.net` | Used when upstream returns loopback (127.0.0.1). |
+| `UPSTREAM_GEO_BYPASS`| `dns.quad9.net` | Used when upstream returns loopback (127.0.0.1). |
 
 ### Edge Filtering (Optimization)
 | Constant | Default | Description |

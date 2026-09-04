@@ -37,6 +37,8 @@ https://raw.githubusercontent.com/huyle0406/blocklist_minimal/refs/heads/main/bl
 
 echo "Downloading and processing allowlists..."
 curl -fsSL --max-time 60 \
+https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/whitelist.txt \
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Whitelists/Whitelist \
 https://raw.githubusercontent.com/huyle0406/Serverless-Edge-DNS-Gateway/refs/heads/main/rules/Myallow.txt \
 | extract_domains > "$ALLOW_TMP"
 

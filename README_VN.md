@@ -13,7 +13,7 @@ Dịch vụ DNS-over-HTTPS (DoH) bảo mật, hiệu năng cao, chạy trên h�
 *   **Tối ưu hóa vị trí địa lý (ECS - RFC 7871)**: Tự động chèn EDNS Client Subnet (IPv4 `/24`, IPv6 `/48`) để đảm bảo các CDN (như Akamai, CloudFront, Fastly, BunnyCDN, Gcore) điều hướng bạn đến máy chủ gần nhất.
 *   **Độ tin cậy cao với hệ thống dự phòng**: 
     *   **Primary/Fallback**: Tự động chuyển sang máy chủ Cloudflare Gateway dự phòng nếu máy chủ chính gặp sự cố.
-    *   **Geo-Bypass**: Tự động phát hiện kết quả bị chặn địa lý (loopback 127.0.0.1) và phân giải lại qua **Mullvad DNS**.
+    *   **Geo-Bypass**: Tự động phát hiện kết quả bị chặn địa lý (loopback 127.0.0.1) và phân giải lại qua **Quad9 DNS**.
 *   **Bộ lọc truy vấn sớm (Edge Filtering)**: Loại bỏ các truy vấn không cần thiết (`ANY`, `AAAA`, `PTR`, `HTTPS`) ngay tại Edge để tiết kiệm tài nguyên và tăng tốc độ phản hồi.
 *   **Lớp bảo vệ TLD nội bộ**: Ngăn rò rỉ các domain nội bộ (như `.local`, `.lan`, trang quản trị router) ra môi trường internet bằng cách trả về `NXDOMAIN` ngay lập tức.
 *   **Điều hướng DNS (CNAME Injection)**: Công cụ ép định tuyến domain A sang domain B bằng bản ghi CNAME. Giúp tùy chỉnh chính xác cụm máy chủ CDN mong muốn (Bilibili, TikTok, Medium...).
@@ -50,7 +50,7 @@ Các thông số dưới đây đã được cấu hình tối ưu sẵn theo m�
 | :--- | :--- | :--- |
 | `UPSTREAM_PRIMARY` | Cloudflare Gateway | URL máy chủ phân giải chính. |
 | `UPSTREAM_FALLBACK` | Cloudflare Gateway | Máy chủ phân giải dự phòng. |
-| `UPSTREAM_GEO_BYPASS`| `dns.mullvad.net` | Dùng khi máy chủ chính trả về loopback (127.0.0.1). |
+| `UPSTREAM_GEO_BYPASS`| `dns.quad9.net` | Dùng khi máy chủ chính trả về loopback (127.0.0.1). |
 
 ### Tối ưu hóa tại Edge
 | Hằng số | Mặc định | Mô tả |
